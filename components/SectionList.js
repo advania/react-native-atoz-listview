@@ -142,7 +142,7 @@ const styles = StyleSheet.create({
   container: {
     position: 'absolute',
     backgroundColor: '#fff',
-    alignItems: 'flex-end',
+    alignItems: 'center',
     justifyContent: 'center',
     right: 0,
     top: 0,
@@ -156,7 +156,7 @@ const styles = StyleSheet.create({
   text: {
     fontSize: 12,
     fontWeight: '400',
-    color: '#0173fa'
+    color: 'rgba(0, 0, 0, 0.6)'
   },
 
   inactivetext: {
