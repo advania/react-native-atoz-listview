@@ -151,6 +151,8 @@ const styles = StyleSheet.create({
 
   item: {
     padding: 1
+    alignItems: 'center',
+    justifyContent: 'center'
   },
 
   text: {
