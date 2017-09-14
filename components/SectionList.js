@@ -153,7 +153,7 @@ const styles = StyleSheet.create({
     padding: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    textAlign: 'center'
+    paddingRight: 5
   },
 
   text: {
